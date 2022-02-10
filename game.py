@@ -1,4 +1,8 @@
 """
+just trying to learn how to use github
+
+
+
 24 game
 given 4 numbers
 output: all possible ways to use these 4 numbers to get the number 24
